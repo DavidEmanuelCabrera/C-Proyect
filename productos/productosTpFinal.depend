@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1603650977 source:c:\users\yanel\onedrive\escritorio\productostpfinal\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1603650808 c:\users\yanel\onedrive\escritorio\productostpfinal\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1603651391 c:\users\yanel\onedrive\escritorio\productostpfinal\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1603651419 source:c:\users\yanel\onedrive\escritorio\productostpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+	"listaSimpleProductos.h"
+
+1603651652 source:c:\users\yanel\onedrive\escritorio\productostpfinal\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1603425390 source:c:\users\yanel\onedrive\escritorio\productostpfinal\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1603425390 c:\users\yanel\onedrive\escritorio\productostpfinal\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1603425390 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1603425390 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1603650808 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1603651391 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1603650977 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1603651419 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+	"listaSimpleProductos.h"
+
+1603651652 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\productostpfinal\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+

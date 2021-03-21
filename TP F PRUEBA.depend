@@ -1,0 +1,753 @@
+# depslib dependency file v1.0
+1602875009 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\arboles.c
+	"Arboles.h"
+
+1602875009 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1602874692 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\compuestos.c
+	"Compuestos.h"
+
+1602875008 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1602875008 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\listas.c
+	"Listas.h"
+
+1602875008 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1602876056 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\cliente.c
+	"cliente.h"
+
+1602876952 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1602876952 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"Arboles.h"
+	"Listas.h"
+	"Compuestos.h"
+	"cliente.h"
+
+1491400450 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399896 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final\tp final\gotoxy.h
+
+1602875009 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\arboles.c
+	"Arboles.h"
+
+1602875009 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606089311 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\compuestos.c
+	"Compuestos.h"
+
+1606088532 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1491400450 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1602875008 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\listas.c
+	"Listas.h"
+
+1602875008 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605813721 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\cliente.c
+	"cliente.h"
+
+1603656429 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606090898 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"Arboles.h"
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491399896 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\gotoxy.h
+
+1604001716 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\menu.c
+	"menu.h"
+
+1603657976 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"ListaSimple.h"
+	"cliente.h"
+
+1605754525 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\listasimple.c
+	"ListaSimple.h"
+
+1605892574 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606091784 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1605886060 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1605896337 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1605895491 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1605989065 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1605895537 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1602875009 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\arboles.c
+	"Arboles.h"
+
+1602875009 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606153525 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\cliente.c
+	"cliente.h"
+
+1603656429 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1491400450 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606156164 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\listasimple.c
+	"ListaSimple.h"
+
+1606155429 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606104820 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606104348 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1605896337 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1605877490 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1605989065 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606143881 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606151687 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\compuestos.c
+	"Compuestos.h"
+
+1606147846 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1606155913 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"Arboles.h"
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491399896 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp prueba1\gotoxy.h
+
+1602860608 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\arboles.c
+	"Arboles.h"
+
+1602860608 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606135524 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\cliente.c
+	"cliente.h"
+
+1603642028 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606133686 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\compuestos.c
+	"Compuestos.h"
+
+1606129846 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1605859490 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1606137428 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606160453 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1606086348 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1491386050 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606138164 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\listasimple.c
+	"ListaSimple.h"
+
+1606159193 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"Arboles.h"
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491385496 c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\gotoxy.h
+
+1606159079 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1605971064 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606159704 source:c:\users\yanel\onedrive\escritorio\lllalalal\tp prueba1\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1602860608 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\arboles.c
+	"Arboles.h"
+
+1602860608 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606135524 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\cliente.c
+	"cliente.h"
+
+1603642028 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606165720 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\compuestos.c
+	"Compuestos.h"
+
+1606129846 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1605859490 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1606137428 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606160453 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1606163142 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1491386050 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606171172 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\listasimple.c
+	"ListaSimple.h"
+
+1606171216 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"Arboles.h"
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491385496 c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\gotoxy.h
+
+1606164342 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1605971064 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606165316 source:c:\users\decab\desktop\programacion\2cuatrimestre\programación\tp9 final prueba\tp final - cabrera.glavina levis\tp prueba1\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1602846208 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\arboles.c
+	"Arboles.h"
+
+1602846208 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606117524 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\cliente.c
+	"cliente.h"
+
+1603627628 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606147720 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\compuestos.c
+	"Compuestos.h"
+
+1606111846 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1605841490 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1606119428 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606142452 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1606182257 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1491371650 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606154186 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\listasimple.c
+	"ListaSimple.h"
+
+1606183590 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"Arboles.h"
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491371096 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\gotoxy.h
+
+1605953064 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606147316 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606183123 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis entrega final\tp prueba1\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1602846208 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\arboles.c
+	"Arboles.h"
+
+1602846208 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606187590 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\cliente.c
+	"cliente.h"
+
+1606187590 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606147720 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\compuestos.c
+	"Compuestos.h"
+
+1606187691 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1605841490 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1606188569 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606186787 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1606186008 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1491371650 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606188263 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\listasimple.c
+	"ListaSimple.h"
+
+1606187224 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491371096 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\gotoxy.h
+
+1606188513 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1605953064 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606147316 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp prueba1\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606187590 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\cliente.c
+	"cliente.h"
+
+1606187590 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606147720 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\compuestos.c
+	"Compuestos.h"
+
+1606187691 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\compuestos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos/productos.h"
+	"ListaSimple.h"
+	"productos/listaSimpleProductos.h"
+	"productos/productos.h"
+	"productos/arbolProductos.h"
+
+1605841490 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\productos\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1606188569 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1606186787 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\productos\listasimpleproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+
+1606186008 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\productos\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"listaSimpleProductos.h"
+
+1491371650 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606188263 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\listasimple.c
+	"ListaSimple.h"
+
+1606187224 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"locale.h"
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	<stdbool.h>
+	"ListaSimple.h"
+	"Compuestos.h"
+	"cliente.h"
+	"productos/productos.h"
+	"productos/listaSimpleProductos.h"
+	"productos/arbolProductos.h"
+
+1491371096 c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\gotoxy.h
+
+1606188513 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\productos\arbolproductos.c
+	"arbolProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1605953064 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\productos\listasimpleproductos.c
+	"listaSimpleProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+
+1606147316 source:c:\users\yanel\onedrive\escritorio\tp final - cabrera.glavina levis finfin\tp final b++\productos\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"stdlib.h"
+

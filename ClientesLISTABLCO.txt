@@ -1,0 +1,47 @@
+Agarrense de la silla para ver tremendo tp
+ID:        1
+Nombre:    Cesar
+Apellido:  Mansanelli
+UserName:  CeMan
+Password:  25
+Mail:      CesarMansanelli@gmail.com
+Domicilio: calle falsa 123
+Genero:    h
+cliente
+Activo
+
+
+ID:        2
+Nombre:    Cesar Pereyra
+Apellido:  Pereyra
+UserName:  CesarPereyra
+Password:  49
+Mail:      CesarPereyra@gmail.com
+Domicilio: siempre viva 123
+Genero:    h
+cliente
+Activo
+
+
+ID:        3
+Nombre:    Guillermo
+Apellido:  Farre
+UserName:  GuilleFarre
+Password:  61
+Mail:      guillermofarre@gmail.com
+Domicilio: luro 2020
+Genero:    h
+cliente
+Activo
+
+
+ID:        4
+Nombre:    David
+Apellido:  Cabrera
+UserName:  dev
+Password:  123
+Mail:      dev@gmail.com
+Domicilio: tijuana 321
+Genero:    h
+ADMINISTRADOR
+Activo
